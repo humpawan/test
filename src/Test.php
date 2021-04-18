@@ -6,6 +6,6 @@ class Test
 {
     public function testgreet(String $sName)
     {
-        return 'Hello Welcome ' . $sName . '! How are you doing today?';
+        return 'Hello ' . $sName . '! How are you doing today?';
     }
 }
