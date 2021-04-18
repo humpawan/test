@@ -1,0 +1,19 @@
+{
+    "name": "hum/test",
+    "description": "HUM-test - A simple Php package.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pawan Garg",
+            "email": "hum2250@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "hum\\test\\": "src/"
+        }
+    },
+    "require": {}
+}
